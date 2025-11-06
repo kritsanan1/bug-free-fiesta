@@ -1,0 +1,3 @@
+*.cjs linguist-language=JavaScript
+.yarn/releases/** binary
+.yarn/plugins/** binary
